@@ -1,5 +1,5 @@
 # prosjektoblig03
 Eline 
-Mac ioscl
+Mac ios
 
 
